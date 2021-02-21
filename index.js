@@ -3,7 +3,7 @@ import {ref} from "vue";
 /**
  * Create an object providing an interface for subscribing to/triggering Vue updates
  * 
- * @return {{subscribe: (function(): number), trigger: (function(): number)}}
+ * @return {{subscribe: (function()), trigger: (function())}}
  */
 const useWithOnDemandUpdates = () => {
   //Abuse the way vue detects reactivity, vue checks which refs were accessed during computed calculation
