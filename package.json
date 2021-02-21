@@ -1,6 +1,6 @@
 {
   "name": "vue-on-demand-updates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Update Vue computed properties on demand, useful for timers etc.",
   "main": "index.js",
   "scripts": {
