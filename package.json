@@ -1,0 +1,28 @@
+{
+  "name": "vue-on-demand-updates",
+  "version": "1.0.0",
+  "description": "Update Vue computed properties on demand, useful for timers etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabientje65/vue-on-demand-updates.git"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "computed",
+    "on-demand"
+  ],
+  "author": "Danny Bogers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sabientje65/vue-on-demand-updates/issues"
+  },
+  "homepage": "https://github.com/Sabientje65/vue-on-demand-updates#readme",
+  "dependencies": {
+    "vue": "^3.0.5"
+  }
+}
